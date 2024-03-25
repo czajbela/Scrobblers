@@ -23,13 +23,16 @@
     
 .apresentacao-imagem{
     width: 30%;
-    justify-content: flex-end;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .apresentacao{
     display: flex;
-    background-color: var(--cinza);
-    border: 2px solid black;
+    background-color: var(--cor-de-fundo)
+    border: 2px solid rgb(255, 255, 255);
     margin: 5px 0;
     padding: 15px;
     border-radius: 20px;
