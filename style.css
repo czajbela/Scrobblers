@@ -33,7 +33,7 @@
     
 
 .apresentacao-imagemI{
-    width: 15%;
+    width: 10%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -41,7 +41,7 @@
 }
 
 .apresentacao-imagemII{
-    width: 15%;
+    width: 10%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
