@@ -23,6 +23,7 @@
     
 .apresentacao-imagem{
     width: 30%;
+    justify-content: flex-end;
 }
 
 .apresentacao{
