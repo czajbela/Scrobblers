@@ -34,3 +34,9 @@
     border-radius: 20px;
 
 }
+
+:root{
+    --cor-de-fundo: #abbbc5;
+    --cor-de-texto: black;
+    --cor-do-cabeçalho: white;
+    --cinza: #abbbc5;}
