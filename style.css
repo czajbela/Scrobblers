@@ -23,7 +23,7 @@ margin: 5%;}
 .apresentacao-imagem{
     width: 17%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     align-items: center;
     padding: 24px 0;
 }
