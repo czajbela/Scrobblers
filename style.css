@@ -4,7 +4,11 @@
 }
 
 
-   
+   body {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
 
 
 
@@ -16,6 +20,7 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+    
 }
 
 
