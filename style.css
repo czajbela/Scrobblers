@@ -7,11 +7,7 @@
    body {
     font-family: "Merriweather", serif;
     font-weight: 700;
-    font-style: normal;
-
-  }
-
-
+    font-style: normal; }
 
 
 .cabecalho {
@@ -20,28 +16,26 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding: 24px 0;}
+    padding: 24px;
+margin: 5%;}
     
+
 .apresentacao-imagem{
-    width: 30%;
+    width: 17%;
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     align-items: center;
     padding: 24px 0;
 }
 
 .apresentacao {
-    background-color: rgb(94, 94, 94);
+    background-color: #939ca1;
     color: rgb(0, 0, 0);
     display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    padding: 24px;
-
+    align-items: stretch;
+    padding: 9px;
+    flex-direction: column;
+    align-content: stretch;
+    flex-wrap: wrap;
 }
 
-:root{
-    --cor-de-fundo: #abbbc5;
-    --cor-de-texto: black;
-    --cor-do-cabeçalho: white;
-    --cinza: #abbbc5;}
