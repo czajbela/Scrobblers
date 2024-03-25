@@ -24,3 +24,12 @@
 .apresentacao-imagem{
     width: fit-content;
 }
+
+.apresentacao {
+    background-color: rgb(128, 128, 128);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
