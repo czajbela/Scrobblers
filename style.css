@@ -53,9 +53,14 @@
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
+    background-color: white;
 }
 
 .foto-equipe{
     width: 40%;
 }
 
+.divisao-equipe{
+    border: 3px solid black;
+    margin: 10px;
+}
