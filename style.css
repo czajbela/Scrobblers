@@ -95,3 +95,8 @@ header{
     align-content: stretch;
     justify-content: space-evenly;
 }
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
