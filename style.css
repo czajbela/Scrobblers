@@ -81,3 +81,17 @@ footer{
     display: grid;
 }
 
+header a{
+    color: red;
+    text-decoration: none;
+
+}
+
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-evenly;
+}
