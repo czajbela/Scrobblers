@@ -100,3 +100,7 @@ section a{
     color: white;
     text-decoration: none;
 }
+
+body a{
+    color: red;
+}
