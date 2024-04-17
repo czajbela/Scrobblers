@@ -101,3 +101,12 @@ section a{
     text-decoration: none;
 }
 
+.album-lana{
+    width: 10%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 24px 0;
+}
+
+
