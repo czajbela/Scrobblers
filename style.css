@@ -102,10 +102,10 @@ section a{
 }
 
 .album-lana{
-    width: 10%;
+    width: 25%;
     display: flex;
-    justify-content: flex-start;
-    align-items: center;
+    justify-content: flex-end;
+    align-items:flex-end
     padding: 24px 0;
 }
 
