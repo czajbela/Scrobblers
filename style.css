@@ -4,7 +4,7 @@
 }
 
 
-   body {
+body {
     font-family: "Merriweather", serif;
     font-weight: 700;
     font-style: normal; }
@@ -101,6 +101,3 @@ section a{
     text-decoration: none;
 }
 
-body a{
-    color: red;
-}
