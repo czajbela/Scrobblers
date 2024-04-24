@@ -116,13 +116,10 @@ section a{
     color: rgb(0, 0, 0);
     display: flex;
     margin: 0 20px;
-    flex-wrap: wrap;
+    align-items: center;
 }
 
-.lana {
-    display: flex;
-    flex-direction: column;
-}
+
 
 .album1-ye {
         width: 255px;
@@ -134,9 +131,7 @@ section a{
         align-items: baseline;
 }
 
-.ye {
-    display: flex;
-}
+
 
 .album2-crybaby
 {
@@ -149,9 +144,6 @@ section a{
     align-items: baseline;
 }
 
-.crybaby {
-    display: flex;
-}
 
 .album3-racionais
 {
@@ -164,9 +156,6 @@ section a{
     align-items: baseline;
 }
 
-.racionais {
-    display: flex;
-}
 
 
 .album4-cbj{
@@ -180,9 +169,6 @@ section a{
     align-items: baseline;
 }
 
-.cbj {
-    display: flex;
-}
 
 
 .album5-tdsotm{
@@ -196,6 +182,4 @@ section a{
     align-items: baseline;
 }
 
-.tdsotm {
-    display: flex;
-}
+
