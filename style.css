@@ -118,13 +118,12 @@ section a{
     flex-direction: column;
 }
 
-.albuns1 {
- background-color: #ffffff;
-    color: rgb(0, 0, 0);
-}
-
 .album1-ye {
         width: 255px;
+}
+
+.ye {
+    display: flex;
 }
 
 .album2-crybaby
@@ -132,17 +131,35 @@ section a{
     width: 20%;
 }
 
+.crybaby {
+    display: flex;
+}
+
 .album3-racionais
 {
     width: 18%;
 }
+
+.racionais {
+    display: flex;
+}
+
 
 .album4-cbj{
 
     width: 20%;
 }
 
+.cbj {
+    display: flex;
+}
+
+
 .album5-tdsotm{
 
     width: 20%;
+}
+
+.tdsotm {
+    display: flex;
 }
