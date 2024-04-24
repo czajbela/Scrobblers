@@ -111,7 +111,7 @@ section a{
     align-items: baseline;
 }
 
-.albuns {
+.album {
     background-color: #ffffff;
     color: rgb(0, 0, 0);
     display: flex;
