@@ -103,6 +103,12 @@ section a{
 
 .album-lana{
     width: 18%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: stretch;
+    flex-wrap: wrap;
+    align-items: baseline;
 }
 
 .albuns {
@@ -120,6 +126,12 @@ section a{
 
 .album1-ye {
         width: 255px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-content: stretch;
+        flex-wrap: wrap;
+        align-items: baseline;
 }
 
 .ye {
@@ -129,6 +141,12 @@ section a{
 .album2-crybaby
 {
     width: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: stretch;
+    flex-wrap: wrap;
+    align-items: baseline;
 }
 
 .crybaby {
@@ -138,6 +156,12 @@ section a{
 .album3-racionais
 {
     width: 18%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: stretch;
+    flex-wrap: wrap;
+    align-items: baseline;
 }
 
 .racionais {
@@ -148,6 +172,12 @@ section a{
 .album4-cbj{
 
     width: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: stretch;
+    flex-wrap: wrap;
+    align-items: baseline;
 }
 
 .cbj {
@@ -158,6 +188,12 @@ section a{
 .album5-tdsotm{
 
     width: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: stretch;
+    flex-wrap: wrap;
+    align-items: baseline;
 }
 
 .tdsotm {
