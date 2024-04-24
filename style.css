@@ -115,6 +115,7 @@ section a{
 
 .lana {
     display: flex;
+    flex-direction: column;
 }
 
 .albuns1 {
